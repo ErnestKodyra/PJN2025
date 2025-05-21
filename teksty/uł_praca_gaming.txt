@@ -1,5 +1,3 @@
-119
-Maria B. Garda
 Uniwersytet Łódzki
 Gry komputerowe jako dziedzictwo kulturowe
 Jesteśmy przyzwyczajeni do mówienia o grach komputerowych jako o „nowych mediach”, podczas gdy mają one już swoją ponad półwieczną historię. Nie wystarczy
@@ -15,7 +13,7 @@ strategiami zachowania gier komputerowych jako dziedzictwa kulturowego, nie tylk
 Jak możemy dowiedzieć się ze strony internetowej polskiego Narodowego Instytutu Dziedzictwa (NID 2013), dziedzictwo kulturowe „stanowi (…) dorobek materialny i duchowy poprzednich pokoleń, jak również dorobek naszych czasów. Oznacza
 wartość – materialną lub niematerialną – przekazaną przez przodków i określającą
 1 Cytaty z obcojęzycznych źródeł, jeśli nie zaznaczono inaczej, podaję we własnym przekładzie.
-120 Maria B. Garda
+
 naszą kulturę”. Zgodnie z tą definicją, najczęściej otaczane są opieką wszelkiego rodzaju „pomniki historii”. Mogą to być obiekty architektoniczne, jak chociażby zespół
 zabudowy Kazimierza Dolnego nad Wisłą, lub lokalizacje geograficzne jak pole bitwy pod Grunwaldem. Intuicyjnie postrzegamy takie miejsca jako dziejowo istotne,
 ponieważ są świadectwem minionej epoki lub ważnego wydarzenia historycznego.
@@ -65,7 +63,7 @@ każda kolejna kopia danego tekstu jest jakościowo tożsama z oryginałem, nie 
 6 Ogromny przyrost wytwarzanych i składowanych danych w obszarze mediów społecznościowych
 skłania firmy takie jak Google i Facebook do budowania centrów tak zwanej „zimnej archiwizacji” (ang.
 cold storage), gdzie eksabajty (1 EB = 1 mln TB) informacji są zapisywane na taśmowej pamięci magnetycznej.
-122 Maria B. Garda
+
 la to ich od wszystkich problemów mediów analogowych. Obecnie masowo digitalizuje się filmy przedwojenne przez wzgląd na ulegającą degradacji taśmę nitro, a więc
 podejmuje się wyścig z czasem, którego celem jest skopiowanie treści z nietrwałych
 nośników. Dokładnie w takiej samej sytuacji znajdą się kiedyś kartridże z ośmiobitowymi grami z lat 80. XX wieku. Co więcej, konsole do gier z tego okresu także mogą
@@ -119,7 +117,7 @@ do nowych produkcji bywają wielkie koncerny medialne prowadzące zupełnie inn�
 politykę odnośnie własności intelektualnej.
 Wydaje się, że odtworzenie rozgrywki sieciowej po wielu latach przypominałoby pod wieloma względami działania historycznych grup rekonstrukcyjnych. Choć
 wątpliwym jest, aby ktoś pokusił się o zrekonstruowanie największych bitew MMO,
-124 Maria B. Garda
+
 takich jak starcia w uniwersum EVE Online [CCP Games, 2003-] – na przykład Battle of Asakai [Petite 2013]. Takie gigantyczne konfrontacje, w których uczestniczy do
 kilku tysięcy graczy, są dokumentowane w postaci filmów lub galerii zdjęć najwyższej
 rozdzielczości (4K), a więc de facto istnieje zapis historyczny tych wydarzeń, stanowiący odpowiedni punkt odniesienia dla prób ich odtworzenia. Być może, podobnie jak w wypadku rekonstrukcji bitwy pod Grunwaldem, mielibyśmy do czynienia
@@ -168,8 +166,8 @@ stanowi materiał, który może nam znacznie więcej powiedzieć o historii gier
 „jakie były naprawdę”, niż zachowanie ich materialnych śladów. Za odejściem od ka9 Let’s play – to udokumentowany, najczęściej za pomocą nagrania wideo, proces rozgrywki, który
 zazwyczaj opatrzony jest komentarzem grającego; jako forma audiowizualna został spopularyzowany
 na serwisie YouTube.
-126 Maria B. Garda
-tegorii oryginalnego doświadczenia jest także Swalwell [2013, 11–12], ale jej zdaniem
+
+teorii oryginalnego doświadczenia jest także Swalwell [2013, 11–12], ale jej zdaniem
 historycy gier powinni myśleć o sobie nie jako o archiwistach, ale bardziej jak o archeologach, gdyż w przyszłości odtworzenie kultury grania danej epoki będzie wymagało
 korzystania z wielu źródeł, a większość z tych przedmiotów nie będzie już spełniać
 swoich pierwotnych funkcji. Podobnie jak w przypadku muzeów etnograficznych,
@@ -190,53 +188,4 @@ historii mówionej, ale – tak jak mówi Swalwell – pozostanie nam rola arche
 Jako groznawcy, nie popełniajmy błędów filmoznawców, którzy dopiero w latach 80.
 XX wieku zdali sobie sprawę, że mają błędne pojęcie o okresie wczesnego kina. Nie
 pozwólmy grom umrzeć zanim je poznamy.
-Bibliografia
-Benjamin, Walter. 2007 [oryg. 1968]. Unpacking My Library. A Talk about Book Collecting (tłum. H. Zohn). w: H. Arendt (red.), Illuminations, ss. 59–67.New York:
-Schocken Books.
-Greenberg, Diane. 3 listopada 2008. Celebrating ‘Tennis for Two’ With A Video Game
-Extravaganza. Dostęp: http://www.bnl.gov/newsroom/news.php?a=2964
-Kluska, Bartłomiej, Rozwadowski, Mariusz. 2011. Bajty Polskie. Łódź: Orka.
-127Gry komputerowe jako dziedzictwo kulturowe
-Newman, James. 2012. Best before: Videogames, Supersession and Obsolescence. Milton Park, Abingdon, Oxon; New York: Routledge.
-NID. 2013. Ochrona Dziedzictwa Kulturowego. Dostęp: http://www.nid.pl/pl/Informacje_ogolne/Ochrona_dziedzictwa_kulturowego/
-Petitte, Omri. 28 stycznia 2013. EVE Online’s Battle of Asakai: Who Was Involved, the
-Stakes, and the Aftermath. Dostęp: http://www.pcgamer.com/2013/01/28/eve-online-battle-asakai/
-Sterling, Bruce. 2003. Digital Decay. w: A. Depocas, J. Ippolito, and C. Jones (red.), ss.
-11–22. New York and Montreal: the Solomon R. Guggenheim Foundation. Dostęp:
-http://thoughtmesh.net/publish/299.php.
-Suominen, Jaakko. 2012. Mario’s Legacy and Sonic’s Heritage: Replays and Refunds
-of Console Gaming History. Dostęp: http://www.digra.org/wp-content/uploads/
-digital-library/12168.57359.pdf.
-Swalwell, Melanie. 2007. The Remembering and the Forgetting of Early Digital Games:
-From Novelty to Detritus and Back Again. w: „Journal of Visual Culture” 6 (2)
-(August): 255–273.
-———. 2009. Towards the Preservation of Local Computer Game Software Challenges,
-Strategies, Reflections. w: „Convergence: The International Journal of Research
-into New Media Technologies” 15 (3) (August): 263–279.
-———. 2013. Moving on from the Original Experience: Games History, Preservation
-and Presentation. Dostęp: http://www.digra.org/wp-content/uploads/digital-library/paper_454.pdf
-Data dostępu do materiałów internetowych: 30 września 2013.
-Ludografia
-Higinbotham, William,1958. Tennis for Two [konstrukcja własna], USA.
-Colley, Stephen, 1974. Maze War [Imlac], USA.
-Nintendo. 1985. Super Mario Bros. [NES], USA: Nintendo.
-Pelc, Janusz. 1989. Robbo. [Atari XE/XL], Polska: LK Avalon.
-Podgórski, Witold. 1962. Marienbad. [Odra 1003], Polska.
-Wargaming.net. 2011. World of Tanks [PC], Polska Wargaming.net.
-Projekt został sfinansowany ze środków Narodowego Centrum Nauki przyznanych
-na podstawie decyzji numer DEC-2012/07/B/HS2/00419.
-128
-Summary
-Computer games as cultural heritage
-The aim of the article is to discuss the challenges of computer games preservation as
-a cultural heritage, focusing on the Polish perspective. Computer games are predominantly perceived as ‘new media’, despite the fact that their history dates back to
-the mid-20th century. It is important to understand that not only the early computer
-games are already ‘old media’ but all the digital games are. They may be perceived
-as ‘dying media’ vulnerable to unprecedented obsolescence. The article explores the
-consequences of digital decay and the notion of original experience in the context of
-conservation strategies. It suggests that there is still a need for a more conscious inclusion of computer games within the agenda of the Polish heritage institutions.
-Keywords: computer games preservation, cultural heritage, digital decay, original
-experience, retrogaming
-mgr Maria B. Garda – groznawczyni, asystentka w Katedrze Mediów i Kultury Audiowizualnej na Uniwersytecie Łódzkim, gdzie zajmuje się grami komputerowymi,
-kulturą popularną i historią mediów; publikowała między innymi w „Homo Ludens”
-i „Przeglądzie Kulturoznawczym”.
+
