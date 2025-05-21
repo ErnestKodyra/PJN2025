@@ -1,0 +1,68 @@
+Chmura, edge i AI: jak najlepiej wykorzystać ich integrację
+
+
+Przetwarzanie na brzegu sieci to nowa faza ewolucyjna transformacji cyfrowej, której możliwości technologiczne sztuczna inteligencja może jeszcze zwiększyć. Dla niektórych firm ta konwergencja jest już podstawą biznesu. Unijny projekt Dome ma ułatwić dyrektorom ds. IT wyszukiwanie certyfikowanych usług AI na krawędzi chmury. To bardzo perspektywiczny rynek: w 2024 roku może być wart 27 miliardów dolarów, a w 2032 roku – 270 miliardów.
+
+shutterstock 1748437547 cloud computing cloud architecture edge computing	
+Źródło: amgun / Shutterstock
+
+W branży IT obserwujemy coraz ściślejszą konwergencję chmury, rozwiązań edge computing (przetwarzanie brzegowe) i sztucznej inteligencji. Zbieranie i przetwarzanie danych na brzegu sieci, za pośrednictwem podłączonych urządzeń, jest integralną częścią aplikacji dla Przemysłu 4.0, a także dla rolnictwa precyzyjnego, inteligentnych miast, logistyki i infrastruktury. Świat internetu rzeczy (IoT) – który w przemyśle przyjmuje bardziej specyficzną nazwę IIoT, czyli przemysłowy internet rzeczy – jest ściśle powiązany z łącznością i możliwością przetwarzania danych lokalnie, z wykorzystaniem technik sztucznej inteligencji, aby następnie przesłać informacje do chmury i przeprowadzić dalsze analizy, z których można wyciągnąć wiedzę.
+
+– Edge to nowe pole bitwy na arenie infrastruktury cyfrowej, a jego możliwości technologiczne zostaną znacznie przyspieszone i rozszerzone dzięki sztucznej inteligencji – podkreśla Luis Fernandes, starszy menedżer ds. badań w dziale strategii infrastruktury cyfrowej w IDC.
+
+Dowodem strategicznego znaczenia integracji chmury, edge computingu i AI jest projekt Dome, współfinansowany przez Komisję Europejską. Ma on na celu wdrożenie otwartego rozproszonego rynku dla usług chmurowych i edge w Unii Europejskiej. Za projektem stoi konsorcjum około 40 europejskich firm i organizacji, które tworzy marketplace certyfikowanych usług chmurowych (IaaS, PaaS i SaaS), czyli zgodnych z aktualnymi i planowanymi przepisami UE.
+
+Marketplace Dome został otwarty latem 2024 r. i wciąż jest w fazie tworzenia, ale zawiera już kilka usług, z których mogą korzystać CIO i menedżerowie IT; w razie potrzeby mogą nawiązać bezpośredni kontakt z dostawcą. Od 2025 r. będzie można również kupować usługi bezpośrednio online. Do końca przyszłego roku zasoby Dome powinny być jak najbardziej kompletne, umożliwiając firmom oraz administracji publicznej dostęp do certyfikowanych usług cloud i edge zgodnych z przepisami i standardami UE.
+
+Dome zwraca również uwagę na rosnącą rolę sztucznej inteligencji w powiązaniu z chmurą i przetwarzaniem brzegowym. Konsorcjum rozważa integrację innych inicjatyw, skupiających się na budowie federacyjnej platformy wspierającej tworzenie i świadczenie usług AI dla firm oraz administracji publicznej.
+Certyfikowane usługi dla firm w UE
+
+– Rynek chmurowy w Europie ciągle rośnie pod względem wolumenów, ale udział rynkowy europejskich operatorów chmury spada, ponieważ dominują wielcy zagraniczni dostawcy, podczas gdy oferta europejskich dostawców pozostaje bardzo rozdrobniona – wyjaśnia Giuseppe Cafiso, Senior Technical Manager R&I Data & Analytics w firmie Engineering, stojącej na czele konsorcjum Dome oraz kierownik projektu. – Ten trend niepokoi Komisję Europejską, która wdrożyła szereg strategii wspierających rozwój europejskiego rynku chmurowego.
+
+Dome wpisuje się w te strategie na końcowym etapie, czyli w momencie wejścia na rynek: celem jest poprawa zdolności europejskich operatorów do konkurowania na rynku.
+
+W kontekście usług chmurowych edge computing, zdaniem Cafiso, stanowi wielką szansę dla europejskich operatorów, a marketplace Dome może odegrać kluczową rolę, ponieważ operatorzy z UE mogą zapewnić znacznie bardziej rozbudowaną obecność w zakresie edge niż globalni hyperscalerzy. UE nakłada szereg ograniczeń na usługi cyfrowe oferowane w Europie (od RODO po europejski system certyfikacji cyberbezpieczeństwa dla usług w chmurze, EUCS), a Dome ocenia zgodność usług chmurowych, które chcą wejść na marketplace. To ułatwia pracę dyrektorom IT.
+
+– Wszyscy europejscy operatorzy chmurowi mogą, a wręcz są zachęcani, aby dołączyć (do projektu – red.), ale muszą przedstawić szereg certyfikacji wydanych przez organy rynkowe. Następnie Dome sprawdza, czy certyfikaty istnieją, są ważne i faktycznie mają zastosowanie do proponowanej usługi. Wówczas Dome wydaje cyfrowy certyfikat wielokrotnego użytku – mówi Cafiso.
+Projekt Dome wspiera innowacje
+
+Cafiso wyjaśnia, że ​​Dome to tak naprawdę katalog skupiający lokalne marketplace’y. Strategia federacji marketplace’ów Dome pozwala na to, aby oferowane przez nie usługi były udostępniane w scentralizowanym katalogu, a następnie replikowane na zasadach komercyjnych na innych platformach. Marketplace’y, łącznie z centralnym „sklepem” Dome, stosują takie same procedury weryfikacyjne dla każdego dostawcy, ponieważ projekt jest z założenia neutralny wobec producentów.
+
+– Obecnie wciąż wielu europejskich operatorów nie sprzedaje swoich usług online: w UE koncepcja wprowadzenia usług ICT na rynek online nie jest powszechna – podkreśla  Cafiso. – Dome wypełnia tę lukę. W branży działa również wiele startupów, które wprowadzają innowacje i mogą skorzystać ze wsparcia międzynarodowego rynku, takiego jak Dome, gdzie dostępny jest katalog, a wkrótce aktywna będzie również pełna infrastruktura do płatności online.
+
+Marketplace jest już otwarty i oferuje różne usługi: wiele z nich to IaaS oraz oferty dla rolnictwa precyzyjnego, inteligentnych miast i administracji publicznej. Katalog jest stale wzbogacany i im będzie szerszy, tym większe zainteresowanie rynku będzie generować.
+Edge computing w centrum ewolucji cyfrowej
+
+– Edge to miejsce, gdzie generowane są dane i podejmowane są decyzje – pisze Teresa Tung, Co-Lead Data Practice w Accenture. To tam odbywa się automatyzacja w pojazdach autonomicznych i sterowane przez AI procesy orkiestracji w inteligentnej fabryce. Jej zdaniem firmy, które inwestują w edge computing jako siłę napędzającą innowacje tak, jak wcześniej inwestowały w chmurę, idą we właściwym kierunku, ponieważ mogą maksymalnie wykorzystać potencjał sztucznej inteligencji. „Nawet jeśli modele AI są rozwijane centralnie, wnioskowanie i, w niektórych przypadkach, trenowanie, odbywa się na brzegu sieci – zauważa Tung.
+
+Połączone urządzenia brzegowe, takie jak sprzęt IoT czy kamery, zbierają dane, analizują je za pomocą algorytmów AI i wyciągają z nich trendy oraz informacje, które pozwalają na ukierunkowane  i szybkie działania. Następnie dane są przesyłane do centralnego systemu w chmurze, który przeprowadza dalsze przetwarzanie, co sprawia, że ekosystem cloud-edge-AI staje się coraz bardziej zintegrowany.
+
+    – Dzisiaj cały świat zmierza w kierunku usług cyfrowych, które opierają się na infrastrukturze chmurowej. Wiele z tych usług, takich jak połączone fabryki, rolnictwo precyzyjne i inteligentne miasta, potrzebuje również przetwarzania na poziomie edge, czyli ‘na miejscu’. Jednocześnie sztuczna inteligencja jest filarem rozwoju nowych usług cyfrowych i wymaga infrastruktury chmurowej. Wielu dostawców, takich jak Engineering, inwestuje w tym kierunku
+
+– podkreśla Cafiso.
+
+– AI w przetwarzaniu brzegowym odgrywa obecnie ograniczoną rolę, ale rozwija się, szczególnie w przypadkach użycia związanych z doświadczeniem użytkownika – wskazuje Luis Fernandes. – Nasze badanie ‘IDC Syndicated Survey 2024: EMEA AI-Ready Infrastructure Survey 2024’ pokazuje, że 25-30 proc. użytkowników rozwiązań edge wykorzystuje je szeroko do takich zadań, jak obsługa klientów i pracowników, automatyzacja i optymalizacja procesów – przypomina. Badanie IDC wykazało również, że główne korzyści płynące z rozwiązań brzegowych dla firm to przede wszystkim wydajność, produktywność i efektywność, a na drugim miejscu bezpieczeństwo, prywatność i zgodność z przepisami.
+Integracja cloud-edge-AI w centrum działalności biznesowej
+
+Firmą, w której integracja cloud-edge-AI stanowi kluczowy element działalności, jest Fairconnect, oferująca zaawansowane usługi technologiczne dla firm ubezpieczeniowych we Włoszech, Francji i Niemczech. Główny obszar działalności firmy opiera się na zbieraniu danych na brzegu sieci, np. w pojazdach i domach klientów posiadających ubezpieczenie powiązane (ang. connected insurance), a także bezpośrednio ze smartfonów.
+
+Dzięki połączonym urządzeniom oraz danym zbieranym na brzegu i przesyłanym do chmury, Fairconnect umożliwia firmom ubezpieczeniowym oferowanie spersonalizowanych ubezpieczeń, zarówno pod względem treści, jak i ceny, a także aktywne zarządzanie sytuacjami kryzysowymi i szkodami.
+
+– Dane zarządzane przez nasze systemy są kluczowe dla naszych klientów ubezpieczeniowych do tego stopnia, że wybraliśmy dostawcę specjalizującego się w zarządzaniu danymi w chmurze, czyli Cloudera– podkreśla Giovanni Maggiore, dyrektor generalny i CIO Fairconnect. – Przesyłamy dane zebrane na brzegu sieci za pomocą połączonych urządzeń (IoT) do opartej na chmurze platformy Hadoop firmy Cloudera,  która pełni funkcję otwartego data lakehouse, gdzie przeprowadzamy analizy i przetwarzanie oparte na algorytmach uczenia maszynowego i innych technikach AI – wyjaśnia.
+
+Fairconnect rozwija własny firmware dla połączonych urządzeń, co pozwala na rozproszenie inteligencji na urządzenia i aplikacje (na smartfonach) i zwiększa zdolności firmy w zakresie przetwarzania brzegowego. Dane zebrane na poziomie edge są filtrowane, aby usunąć „szum” (aby uniknąć przesyłania i przechowywania w chmurze niepotrzebnych danych) – i tu właśnie do głosu dochodzi zarządzanie danymi za pomocą platformy Cloudera i zastosowanie technologii AI.
+Model chmury hybrydowej a wartość rynkowa
+
+W tym kontekście, według badań IDC, firmy coraz częściej będą wybierać model chmury hybrydowej. – Nasze dane pokazują rosnącą preferencję wobec standardowych, współdzielonych platform w stosunku do rozwiązań dedykowanych dla większości współczesnych obciążeń oraz zapotrzebowanie na zoptymalizowane systemy wdrażane ad hoc z określonymi funkcjami prywatności, bezpieczeństwa oraz specjalnie zaprojektowanymi systemami zasilania i chłodzenia. Wszystko to musi być częścią szerszego środowiska chmury hybrydowej, ponieważ 4 na 5 respondentów preferuje podejście hybrydowe w swojej infrastrukturze IT – wskazuje Luis Fernandes.
+
+Fairconnect również korzysta z modelu chmury hybrydowej: firma ma prywatną chmurę w kolokacji (w centrum danych Equinix w Szwajcarii), ale korzysta także z chmury publicznej Amazon Web Services do systemów analitycznych i zarządzania big data za pomocą technologii Cloudera. Przepływy danych są ogromne, ponieważ firma obsługuje około 800 tysięcy aktywnych klientów. Do tego zestawu rozwiązań dochodzi połączenie oprogramowania open source i własnościowego.
+
+    – Od zawsze korzystaliśmy z otwartego ekosystemu Hadoop do analizy danych, ale od kilku lat, wraz z rozwojem firmy, inwestujemy w dystrybucje dla przedsiębiorstw. Chmura publiczna zapewnia nam skalowalność pozwalającą na dostosowanie technologii  do rozwoju firmy oraz bogactwo rozwiązań technologicznych, których sami nie moglibyśmy stworzyć. Ponadto, dostawcy hiperskalowi umożliwiają dostęp do zaawansowanych technologii, od mikrochipów AI po gotowe modele GenAI, co obniża próg wejścia w nowe technologie
+
+– mówi Maggiore.
+
+Według dyrektora Fairconnect wszystkie firmy, którym zależy na efektywnym wykorzystaniu swoich zasobów i które wielopoziomowo zarządzają gromadzeniem i przetwarzaniem danych, mogą wydobywać wartość z modeli brzegowych. – Im bardziej biznes zależy od danych i ich dostarczania klientowi, tym bardziej zbliża się do konwergencji cloud-edge-AI. Należy jednak pamiętać, że stwarza to przed firmą wyzwania etyczne, ponieważ dane są związane z prywatnością i szacunkiem wobec tych, którzy je generują – podkreśla.
+
+Zarządzanie danymi klientów w sposób odpowiedzialny i zgodny z zasadami jest warunkiem rozwoju i rozpowszechnienia rozwiązań opartych na edge-IoT i AI. Prognozy Fortune Business Insights wyraźnie wskazują jednak kierunek: wartość globalnego rynku edge AI, który łączy algorytmy sztucznej inteligencji z urządzeniami lokalnymi i ich możliwościami przetwarzania na brzegu sieci, wynosiła w 2023 r. 20,4 mld dolarów, podczas gdy w tym roku przekroczy 27 mld, a do 2032 roku zbliży się do 270 mld, przy średniorocznym wzroście na poziomie 33,3 proc.
+
+Branże, które najczęściej będą nabywać te rozwiązania, to motoryzacja, produkcja, opieka zdrowotna, energetyka, dobra konsumpcyjne, IT i telekomunikacja.

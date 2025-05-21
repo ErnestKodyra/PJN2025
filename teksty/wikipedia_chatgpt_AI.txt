@@ -1,0 +1,58 @@
+ChatGPT – chatbot opracowany przez OpenAI, oparty na generatywnej sztucznej inteligencji (dużym modelu językowym GPT), służący do generowania odpowiedzi na dane wprowadzane przez użytkownika. Model ten został opracowany na podstawie dużych zbiorów danych, aby mógł prowadzić rozmowę i angażować się w różne tematy, od ogólnych rozmów po określone obszary wiedzy.
+
+ChatGPT został uruchomiony jako prototyp 30 listopada 2022 i szybko zwrócił na siebie uwagę dzięki rozbudowanym odpowiedziom z wielu dziedzin wiedzy, które często są pozornie prawidłowe[2]. Jego model językowy został opracowany zarówno za pomocą technik uczenia nadzorowanego i uczenia przez wzmocnienie[3].
+
+Komunikacja z ChatGPT polega na tworzeniu podpowiedzi, czyli specjalnie skonstruowanych zapytań. Jakość odpowiedzi jest zależna od jakości podpowiedzi[4].
+Rozwój modeli GPT
+ Osobny artykuł: Wstępnie przeszkolony transformator generatywny.
+
+GPT-1, pierwszy model z serii, został opracowany w 2018 roku. GPT-2 powstało w lutym 2019, a GPT-3 w czerwcu 2020[5].
+
+Pierwsza wersja ChatGPT udostępniona użytkownikom korzystała z modelu GPT-3.5. Usługa ChatGPT Plus korzystająca z GPT-4, najnowszej generacji modeli GPT, została udostępniona 14 marca 2023[6].
+Możliwości usługi
+Funkcje
+
+ChatGPT ma znacznie szersze zastosowanie niż tylko prowadzenie rozmów przypominających ludzkie. Narzędzie pozwala na pisanie i debugowanie programów komputerowych[7], komponowanie muzyki, odpowiadanie na pytania testowe[8], generowanie pomysłów biznesowych[9], pisanie poezji i tekstów piosenki[10], tłumaczenie czy streszczanie tekstu[11].
+
+Robot konwersacyjny jest dostępny w wielu językach, w tym w języku polskim[12] jednak jego wydajność może się różnić w zależności od języka[13][14]. Zapamiętuje ograniczoną ilość poprzednich promptów w konwersacji[15]. Potrafi odpowiadać na pytania w języku bardzo podobnym do odpowiedzi człowieka czy, w zależności od pytania, odpowiadać na poziomie przewyższającym przeciętnego człowieka[16][17][18].
+
+ChatGPT został wytrenowany aby zminimalizować ryzyko generowania błędnych czy szkodliwych treści. Dodatkowo, aplikacja posiada filtr moderacyjny, który blokuje zawartości naruszające politykę treści[19][15].
+
+W październiku 2024 roku została wprowadzona wyszukiwarka internetowa ChatGPT Search, która pozwala na szukanie informacji w Internecie[20]. Początkowo była ona dostępna tylko za opłatą, a od lutego 2025 roku jest dostępna dla wszystkich użytkowników, również niezalogowanych[21].
+
+W marcu 2025 została udostępniona funkcja generowania obrazu bezpośrednio przez model GPT-4o, eliminując konieczność korzystania z DALL-E 3[22].
+Ograniczenia
+
+Sytuacje, w których ChatGPT oraz inne duże modele językowe generują nieprawidłowe treści, nazywane są halucynacjami[23]. Termin ten spopularyzowali naukowcy z Google w 2018 roku[24].
+
+Wiedza użyta do trenowania modelu chatbota obejmuje informacje zebrane do czasu jego trenowania, dlatego ChatGPT nie jest w stanie podać informacji o wydarzeniach, które miały miejsce po tym okresie. Możliwe jest uzyskanie informacji przez wyszukanie stron internetowych, jednak jakość tych danych może być niska, w zależności od znalezionych źródeł[25].
+Odbiór
+Kraje, w których ChatGPT jest dostępny (stan na listopad 2023)
+
+ChatGPT zyskał ponad milion użytkowników w ciągu zaledwie 5 dni (dla porównania Netflixowi zajęło to 41 miesięcy, Facebookowi 10 miesięcy, a Instagramowi 2,5 miesiąca)[26]. Zdobycie 100 milionów użytkowników zajęło ChatGPT dwa miesiące, podczas gdy TikTok dokonał tego w dziewięć[27].
+
+Duża popularność ChatGPT przyspieszyła wypuszczenie konkurencyjnych chatbotów, m.in. Gemini (dawniej Bard), opracowanego przez Google, LLaMA, stworzonego przez Meta AI﻿[w innych językach], czy Claude, opracowanego przez Anthropic﻿[w innych językach].
+Kontrowersje
+
+W związku z rosnącą popularnością GPT, zajmująca się tematyką społeczeństwa nadzorowanego Fundacja Panoptykon zwróciła uwagę na różne skutki uboczne związane z tego rodzaju narzędziami, jak m.in. problemy z odpowiedzialnością prawną, zagrożenie dla prywatności, ułatwienie w tworzeniu materiałów dezinformacyjnych, a także rozwój biznesu na podstawie modelu przynoszącego negatywne konsekwencje społeczne[28].
+
+Stack Overflow zbanował odpowiedzi generowane za pomocą ChatGPT ze względu na ich niską wiarygodność[2].
+
+Profesor Arvind Narayanan﻿[w innych językach] z Uniwersytetu w Princeton uważa, że ChatGPT został wyszkolony, żeby generować nie teksty prawdziwe, ale takie, które brzmią wiarygodnie[29].
+
+Włoscy naukowcy Andrea Taloni, Vincenzo Scorcia i Giuseppe Giannaccare w jednym z badań wykazali, że ChatGPT można użyć do łatwego fałszowania danych z badań medycznych[30]. W badaniu tym wykazano, że ChatGPT potrafi szybko stworzyć zestawy danych, które wyglądają przekonująco.
+
+Doktor Rafał Mazur z Uniwersytetu Jagiellońskiego zwrócił uwagę na to, że wypowiedzi generowane przez ChatGPT zawierają liczne błędy językowe. Badacz przestrzega przed negatywnym wpływem na kształt polskiej normy językowej, jaki może mieć w przyszłości obecność takich tekstów w przestrzeni publicznej[31].
+Alternatywy dla ChatGPT
+
+Jeden z głównych konkurentów ChatGPT, Gemini, został stworzony przez Google (Alphabet), która wstępnie udostępniła go w marcu 2023, umożliwiając użytkownikom w USA i Wielkiej Brytanii dołączanie do listy oczekujących. W maju, jeszcze pod nazwą Bard, był dostępny już w 180 państwach, z wyłączeniem większości państw europejskich, takich jak Polska, Niemcy i Francja[32]. Bard został udostępniony w Unii Europejskiej 13 lipca 2023[33]. W kontekście strategii biznesowej, Bard jest częścią większej rywalizacji między Google a Microsoftem, który zintegrował ChatGPT z własną wyszukiwarką Bing[34].
+
+Inna alternatywą dla ChataGPT, jest Claude opracowany przez spółkę Anthropic﻿[w innych językach][35].
+
+Hugging Face, społeczność AI i firma zajmująca się technologiami uczenia maszynowego, opracowała otwartoźródłową alternatywę dla ChatGPT o nazwie HuggingChat[36]. Udostępnia ona kilka otwarto wagowych modeli, wytrenowanych przez różne niezależne firmy[37][38]. Projekt HuggingChat został zainicjowany przez Large-scale Artificial Intelligence Open Network (LAION) – globalną organizację non-profit, dążącą do demokratyzacji najnowocześniejszych technologii AI[39].
+
+W maju 2023 roku pojawił się chatbot TRURL.AI, stworzony przez polską spółkę VoiceLab.AI. TRURL.AI swoją nazwą nawiązuje do robota-konstruktora Trurla z twórczości Stanisława Lema[40].
+
+29 listopada 2023 roku 6 jednostek badawczych specjalizujących się w sztucznej inteligencji i językoznastwie zawiązały konsorcjum dotyczące stworzenia modelu językowego wytrenowanego głównie na polskich treściach, nazwanego PLLuM[41]. Na początku 2025 roku rodzina modeli udostępniona została na platformie HuggingFace oraz za pośrednictwem strony internetowej[42].
+
+W kwietniu 2024 roku światło dzienne ujrzał drugi polski duży model językowy Bielik[43][44]. 

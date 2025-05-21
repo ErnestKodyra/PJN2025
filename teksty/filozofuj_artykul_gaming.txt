@@ -1,0 +1,40 @@
+Gry komputerowe stanowią poważną część współczesnej kultury – Wywiad z Jesperem Juulem
+
+
+Wywiad z Jesperem Juulem, jednym z największych na świecie specjalistów od filozoficznych aspektów gier komputerowych.
+
+Tekst ukazał się w „Filozofuj!” 2021 nr 4 (40), s. 23–25. W pełnej wersji graficznej jest dostępny w pliku PDF.
+
+Czym są gry komputerowe? Co nowego wnosi w świat gier zastosowanie komputerów?
+
+W pewnym sensie należą one oczywiście do starej jak świat dziedziny ludzkiej aktywności, jaką są gry w ogóle, choć, aby w nie grać, potrzebujemy komputerów. Spędziłem sporo czasu (podobnie jak wielu innych badaczy) nad próbą dookreślenia znaczenia słowa „gra” i doszedłem do wniosku, że jest to ewoluująca kategoria kulturowa, niemniej można zaproponować jej klasyczne ujęcie, które moim zdaniem wygląda następująco:
+
+    (Klasyczna) gra to oparty na regułach system formalny posiadający zmienny i wyliczalny (dający się zmierzyć) wynik. Różnym wynikom przypisywane są odmienne wartości, zaś gracz dokonuje wysiłków, aby wpłynąć na wynik, na którym mu zależy. Konsekwencje aktywności gracza są opcjonalne i negocjowalne.
+
+Gry komputerowe niekoniecznie są przykładem klasycznych gier. Pojawiło się ostatnio wiele przykładów eksperymentowania z grami komputerowymi, które modyfikują model klasyczny. Istnieją takie, które nie generują żadnych rezultatów, nie posiadają celu (tak jest w przypadku SimCity czy The Sims), które nie stanowią wyzwania dla graczy (granie nie wymaga wysiłku z ich strony), jak gry typu walking simulator.
+
+Szczególnym novum w grach komputerowych jest fakt, że to (raczej) komputer, a nie gracze (jak w przypadku gier planszowych) albo fizyka (jak jest w wielu sportach) podtrzymuje stosowanie reguł.
+
+Dlaczego badania nad grami komputerowymi są ważne?
+
+Łatwo odwrócić to pytanie. Gry komputerowe stanowią poważną część współczesnej kultury. Ponad połowa dorosłej populacji wielu krajów gra. Dlaczego nie mielibyśmy badać tego fenomenu? Ciężko byłoby sformułować argument przeciwko prowadzeniu takich badań.
+
+Poza tym gry komputerowe są interesujące z teoretycznego punktu widzenia, jako pewna forma kulturowa, która nie tylko opiera się na reprezentacji (przedstawianiu sobie czegoś), ale obejmuje także takie aktywności jak programowanie i jest silnie związana z pojawieniem się technologii komputerowej. Fakty te prowokują interesujące pytania dotyczące sztuki, kultury, doświadczenia itd.
+
+Czego dotyczą najgorętsze dyskusje w ramach badań nad grami komputerowymi?
+
+Badania te mają charakter interdyscyplinarny, możemy więc natknąć się tu na większość międzydyscyplinarnych sporów, jakie można sobie wyobrazić. Czy powinniśmy badać samą grę jako artefakt, kulturę wokół niego, graczy, czy może sposób, w jaki gry są tworzone? Czy możemy badać gry wideo z perspektywy nowego materializmu (postrzegającego materię jako coś dynamicznego)? W jakim zakresie hardware determinuje to, co jest możliwe na danej platformie? Pośród przedstawicieli nauk humanistycznych zajmujących się grami komputerowymi wciąż na nowo ożywa dyskusja dotycząca tego, czy narracja (opis) stanowi uniwersalną formę badania wszelkiego rodzaju treści i znaczenia w grach, czy też być może powinniśmy wypracować jakąś dodatkową, specyficzną dla tego medium formę badania. Jeśli chodzi o mnie, to uważam, że reguły i algorytmy w grze mogą np. zawierać i wyrażać idee polityczne, zaś ten fakt prowokuje interesujące dyskusje na temat algorytmicznej stronniczości i sprawiedliwości gier.
+
+Jakie korzyści obcowanie z grami komputerowymi może przynieść filozofii (jak i samym filozofom)?
+
+Gry komputerowe to popularna forma uczestnictwa lub kontaktu z istotnymi zmianami społecznymi, jakie stanowi pojawienie się komputerów i technologii cyfrowej. To uczestnictwo często wpływa też na sam proces tych zmian. Jako takie jest ono zarówno przedmiotem badań, jak i okazją do przemyślenia podstawowych dzielonych przez nas pojęć.
+
+Czy spotkał się Pan z ciekawym wątkiem filozoficznym w grze komputerowej?
+
+Tak. Pamiętajmy, że gry tworzą różni ludzie. Niektórzy z twórców bywają profesorami historii sztuki, inni profesorami filozofii. Istnieje dużo ciekawych prac eksperymentalnych, np. Depression Quest, gdzie depresja jest reprezentowana jako niezdolność danej osoby do podejmowania decyzji, które uważa ona za słuszne. Tego typu projekty skłaniają do pytania o to, czym w ogóle jest gra komputerowa. Innym dobrym przykładem jest The Beginner’s Guide – gra polegająca na interpretowaniu dzieł sztuki. Akademicy tacy jak Pippin Barr czy Stefano Gualeni tworzą gry, które wprost nawiązują do tematyki filozoficznej. Istnieje też interesujący nurt aktywistyczny, którego dobrym przykładem jest Consentacle – gra Naomi Clarke skupiająca się na zagadnieniu zgody. Sam obecnie pracuję nad grą dotyczącą tego, w jaki sposób identyfikujemy obiekty w światach
+wirtualnych.
+
+Czy ma Pan jakieś ulubione gry komputerowe? A może badanie gier to jedno, a granie w nie to drugie, i podczas gdy badanie tego tematu jest interesujące, samo granie to dla badacza strata czasu?
+
+Mam wiele ulubionych gier. Dużo zależy od tego, kiedy i dlaczego gram. W pewne gry, np. Minecraft Dungeons czy Super Mario Bros, grywam z rodziną. Sprawia mi przyjemność granie w gry typu space opera, np. Mass Effect. Grywam w krótkie gry bitewne, takie jak Clash Royale na telefonie. Grywam ponadto w gry eksperymentalne, np. Undertale, Oikospiel, czy Spiritfarer. Lubię też próbować nowych rzeczy, które stanowią wyzwanie dla mojego pojmowania
+gier wideo.

@@ -1,0 +1,45 @@
+
+Fakty i mity na temat sztucznej inteligencji. Czym jest AI?
+
+W ostatnim czasie światowy internet zrewolucjonizował ChatGPT, czyli sztuczna inteligencja od firmy Open AI. Aplikacja zyskała kilka milionów użytkowników w ciągu zaledwie pięciu dni, co nie udało się takim uznanym markom, jak Facebook, Instagram czy Netflix. Niestety przy tak dużej liczbie odbiorców programem zainteresowali się m.in. rosyjscy hakerzy, którzy za jego pomocą próbowali kierować ataki phishingowe czy wymuszać okupy od zdezorientowanych internautów.
+
+Program w formie chatbota służy do generowania odpowiedzi na pytania i zagadnienia wprowadzane przez użytkowników. Najpopularniejsze serwisy społecznościowe (np. TikTok czy Instagram) i internetowe obiegły przeróżne filmy z wykorzystaniem czatu z inteligentną maszyną.
+
+Nowe medium sprawdzili również „kreatywni” uczniowie i studenci, którzy za pomocą czatu rozwiązywali zadania matematyczne albo pisali rozprawkę. Jednak dlatego, że to „tylko” sztuczna inteligencja, część odpowiedzi miała charakter plagiatu, bądź była daleka od faktów. Również pedagodzy nie pozostali dłużni swoim wychowankom. W social mediach dostępne były nagrania, podczas których to nauczyciele pytali aplikację „czy za pomocą ChatGPT można rozwiązywać pracę domową?”. Z racji ogromnego zainteresowania programem postanowiliśmy przybliżyć najważniejsze informacje dotyczące sztucznej inteligencji.
+Czym jest AI?
+
+AI (ang. artifical inteliigence), czyli sztuczna inteligencja to przejaw inteligencji programu komputerowego lub maszyny, która przypomina ludzkie zachowanie. Taką inteligencję program komputerowy nabywa w procesie uczenia i wykonuje odpowiednie obliczenia. Bazuje na „wytrenowanym” algorytmie poprzez wgrane do niego dane, a nie kodach napisanych przez programistów.
+
+Przykład: Jeśli zapytamy sztuczną inteligencję o wydarzenie, które miało miejsce już po wgraniu danych, np. o wynik imprezy sportowej czy efekt obrad politycznych, to albo nie uzyskamy odpowiedzi, albo podana odpowiedź będzie nieprawidłowa. Dlaczego? Program nie nauczył się o danym wydarzeniu podczas procesu jego programowania.
+
+Sztuczna inteligencja wykorzystywana jest wszędzie tam, gdzie programy komputerowe lub urządzenia mogą działać skuteczniej. AI wkomponowuje się już praktycznie w każdą dziedzinę naszego codziennego życia.
+Czy sztuczna inteligencja nas podsłuchuje?
+
+Pewnie czasami zastanawiacie się, dlaczego reklamy internetowe odpowiadają naszym ostatnim wyszukiwaniom w sieci. Jeśli przykładowo przeszukujemy internet w celu zakupienia nowych butów, to w kolejnych dniach będziemy „atakowani” najlepszymi ofertami wybranego przez nas modelu obuwia. To wszystko za sprawą sztucznej inteligencji, która potrafi analizować nasze ruchy w sieci i na podstawie algorytmu rekomendować produkty.
+
+Podobnie AI zachowuje się w przypadku analizy głosu. Kiedy pozwolimy urządzeniom lub aplikacjom na dostęp do mikrofonu, algorytm przeanalizuje pliki i zaproponuje spersonalizowaną reklamę. W takim przypadku nie trzeba nawet wpisywać konkretnego hasła w wyszukiwarkę. AI po prostu już wie.
+
+Ekspert z Łukasiewicz – PIT Maciej Szymkowski, przymierzając się do zakupu auta, rozmawiał o modelu znanej marki przed ekranem swojego urządzenia. Na drugi dzień wszystkie reklamy oferowały samochód w konkretnej specyfikacji. Prawdopodobnie wielu z nas spotkało się z podobnym zjawiskiem.
+
+Jeśli nie jesteśmy na celowniku służb specjalnych lub nie zostaliśmy ofiarą ataku hakerskiego, to w każdym momencie możemy zablokować funkcję analizowania głosu. W przypadku tego drugiego, czyli ataku hakerskiego, najlepiej oddać sprzęt do specjalisty i zrezygnować z jego dalszego użytkowania.
+
+W tym momencie u większości użytkowników urządzeń mobilnych pojawia się pytanie o zasadność analizowania naszych ruchów w sieci i podsłuchiwania prywatnych rozmów. Jeśli chcemy korzystać z nawigacji podczas podróży, lub też otrzymywać spersonalizowane treści i reklamy, to taka funkcja jest bardzo przydatna.
+AI pomoże na wakacjach
+
+Chyba każdy z nas tłumaczył kiedyś pojedyncze zdanie lub dłuższy tekst z języka obcego na polski za pomocą aplikacji bądź programu, np. podczas zagranicznych wakacji. To właśnie dzięki sztucznej inteligencji zyskujemy możliwość przetłumaczenia dowolnego tekstu, wpisując poszczególne wyrazy i zdania lub wgrywając jego zdjęcie.
+
+Według danych z raportu TNS aż 44 proc. Polaków nie zna żadnego języka obcego. W tych statystykach znakomicie wypadają osoby do 30. roku życia, którzy w większości znają przynajmniej jeden język obcy. Z kolei pokolenie ich rodziców najczęściej deklaruje znajomość rosyjskiego.
+
+AI jednak nie tak prędko zastąpi nauczycieli, bowiem sztuczna inteligencja nie ma takich cech, jak spontaniczność czy kreatywność, które są istotne w porozumiewaniu się między ludźmi. Interaktywne systemy nauki języki mogę jednak wypełniać pewną lukę – nauczać osoby pracujące zawodowo, które nie mają czasu albo możliwości uczestniczyć w pełnym kursie językowym. Oczywiście lekcje odbywają się wtedy na podstawowym poziomie i służą jedynie przygotowaniu do spotkania z „rzeczywistym” lektorem.
+Czy powinniśmy bać się robotów?
+
+Z każdym wynalazkiem powstaje idea wykorzystania go w złych celach. Pomimo możliwości sankcji karnych, wizja niewykrywalności powoduje, że ludzi o niekoniecznie czystych intencjach nie brakuje. Podobne jest ze sztuczną inteligencją. Co prawda, nie musimy obawiać się (jeszcze) wojny z maszynami, a to wizja, która pojawia się bardzo często w produktach kultury masowej (filmy, książki, gry wideo), ale już teraz powinniśmy bać się sterowania nami na zlecenie twórców AI.
+
+W niedalekiej przyszłości może się tak wydarzyć, że nie odróżnimy prawdy od fałszu – czy to w obrazie, dźwięku czy tekście. Już teraz powstają modulatory, których przeróbki są bliskie autentyczności. To może prowadzić do manipulacji i nadużyć np. w sferze polityki, biznesu czy mediów społecznościowych, a więc mieć realny wpływ na nasze życie i codzienne decyzje. Jednak, jak wskazuje nasz ekspert, takie obawy nie zatrzymają rozwoju sztucznej inteligencji.
+
+AI potrafi usprawnić wiele procesów, a w konsekwencji podjąć właściwie decyzje za człowieka. Automatyzacja działań sprawia, że firmy zyskują konkretne możliwości i większą wydajność pracy. Niestety oznacza to również, że spada potrzeba zatrudnienia dodatkowych pracowników, co w przyszłości może doprowadzić do problemów z rosnącym bezrobociem.
+Chat ze sztuczną inteligencją – potrzeba czy wymysł XXI wieku?
+
+Eksperci z Łukasiewicz – PIT zauważają, że czat ze sztuczną inteligencją pozostanie z nami na dłużej. Warto w tym kontekście przytoczyć wypowiedź Macieja Niemira z Centrum Transformacji Cyfrowych:
+
+Chat ze sztuczną inteligencją traktuję jako część ogromnej rewolucji zapoczątkowanej w 2017 roku, kiedy to wymyślono przełomowy algorytm przetwarzania języka naturalnego, dzięki któremu komputer nagle zaczął „rozumieć” sposób komunikacji ludzi. W tej chwili jesteśmy świadkami rozwoju tamtej idei. Natomiast nadal jest jeszcze wiele do udoskonalenia. Jakkolwiek inne rozwiązania przetwarzania języka naturalnego osobiście uważam za bardziej potrzebne, tak ten – czat ze sztuczną inteligencją – z pewnością nie jest tylko modą, ale zostanie z nami na stałe.  Ma to oczywiście swoje dobre i złe strony. Myślę, że w ciągu dziesięciu lat znikną połączenia z konsultantami, bo konsultantów za biurkiem po prostu nie będzie – zamiast tego wszystko spore kwestie załatwimy z komputerem. Z drugiej strony pojawia się zagrożenie, że z rynku znikną kolejne miejsca pracy.

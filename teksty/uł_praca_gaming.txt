@@ -1,0 +1,242 @@
+119
+Maria B. Garda
+Uniwersytet Łódzki
+Gry komputerowe jako dziedzictwo kulturowe
+Jesteśmy przyzwyczajeni do mówienia o grach komputerowych jako o „nowych mediach”, podczas gdy mają one już swoją ponad półwieczną historię. Nie wystarczy
+jednak uświadomić sobie, że pionierskie tytuły są zabytkami elektronicznej rozrywki, chciałoby się rzec „starymi mediami”. Istotnym jest, aby zrozumieć, że gry
+komputerowe są pod wieloma względami „umierającymi mediami”, ponieważ jako
+grywalne całości (tzn. sprzęt i oprogramowanie w pierwotnej konfiguracji) mają ograniczony termin trwałości, a utrzymanie ich oryginalnego stanu funkcjonowania staje
+się z upływem lat niemożliwe. W tym kontekście James Newman [2012, 154] stawia
+prowokacyjną tezę, aby „pozwolić grom umrzeć”1, gdyż nigdy nie uda nam się ich
+zachować takimi jakie były kiedyś. Autor oczywiście niuansuje później tę wypowiedź
+i okazuje się, że jest ona jedynie wyrazem jego oryginalnej wizji ocalenia gier dla przyszłych pokoleń. Niemniej obecność tego rodzaju deklaracji skłania do refleksji nad
+strategiami zachowania gier komputerowych jako dziedzictwa kulturowego, nie tylko
+światowego, ale przede wszystkim polskiego.
+Jak możemy dowiedzieć się ze strony internetowej polskiego Narodowego Instytutu Dziedzictwa (NID 2013), dziedzictwo kulturowe „stanowi (…) dorobek materialny i duchowy poprzednich pokoleń, jak również dorobek naszych czasów. Oznacza
+wartość – materialną lub niematerialną – przekazaną przez przodków i określającą
+1 Cytaty z obcojęzycznych źródeł, jeśli nie zaznaczono inaczej, podaję we własnym przekładzie.
+120 Maria B. Garda
+naszą kulturę”. Zgodnie z tą definicją, najczęściej otaczane są opieką wszelkiego rodzaju „pomniki historii”. Mogą to być obiekty architektoniczne, jak chociażby zespół
+zabudowy Kazimierza Dolnego nad Wisłą, lub lokalizacje geograficzne jak pole bitwy pod Grunwaldem. Intuicyjnie postrzegamy takie miejsca jako dziejowo istotne,
+ponieważ są świadectwem minionej epoki lub ważnego wydarzenia historycznego.
+Tego rodzaju poczucie „obcowania z historią” nie towarzyszy nam w równym stopniu
+podczas rozgrywki – przykładowo w gry ośmiobitowe2, gdyż są one częścią historii najnowszej, wobec której nie mamy jeszcze odpowiedniego dystansu. Gdy jednak
+spojrzymy na te same gry z właściwej perspektywy, dostrzeżemy, że są one istotnym
+dziedzictwem, nie tylko kultury popularnej w ogóle, ale również rodzimej tradycji
+ludycznej. Ośmiobitowe gry komputerowe, w które grano w Polsce w okresie PRL są
+bowiem świadectwem lokalnej kultury grania, która już nie istnieje, a której opisanie
+i zachowanie jest równie ważne jak inne badania i próby dokumentacji tamtej epoki.
+Mówiąc o historii gier komputerowych zapominamy często, że najstarsze zabytki
+elektronicznej rozrywki pochodzą nie tylko ze Stanów Zjednoczonych, gdzie rozwinęła się ona najszybciej, ale także z Polski. Łódzki historyk gier Bartłomiej Kluska
+[2011, 5–8] opisuje Marienbad [Podgórski, 1962], uznawany obecnie za pierwszą polską grę komputerową i stworzony na potrzeby maszyny liczącej Odra 1003. Wykorzystywany do logicznych pojedynków3 prototyp – pierwszego seryjnie produkowanego
+nad Wisłą – komputera tranzystorowego znajdował się w Zarządzie Topograficznym
+Sztabu Generalnego Wojska Polskiego we Wrocławiu. Podobnie jak w przypadku wielu innych pionierskich gier (np. Tennis for Two [Higinbotham, 1958] lub Maze War [
+Colley, 1974]), Marienbad powstał na terenie instytucji rządowej, co oczywiście wynikało ze strategicznego znaczenia tych niezwykle kosztownych urządzeń. Jakkolwiek
+kiedyś Odra była symbolem triumfu polskiej myśli technicznej, to po upadku PRL
+bardzo szybko stała się reliktem poprzedniej epoki i wraz z transformacją – w tym
+wypadku technologiczną – została zastąpiona przez nową generację maszyn. Jak
+mnie poinformowano, Centrum Informatyki Uniwersytetu Łódzkiego było w posiadaniu komputerów Odra w czasach komunistycznych, ale na początku lat 90. XX wie2 Chodzi tutaj o gry tworzone na komputery osobiste i platformy do grania oparte na architekturze
+ośmiobitowej, popularne – w zależności od części świata – począwszy od lat 70. do połowy lat 90. XX
+wieku. Przykładowe sprzęty z tej generacji to konsola Nintendo Entertainment System lub mikrokomputer Atari 800 XL.
+3 Marienbad był adaptacją wariantu chińskiej gry liczbowej Nim, polegającej na usuwaniu elementów ze zbioru, znanej z filmu Zeszłego roku w Marienbadzie (reż. A. Resnais, 1962).
+121Gry komputerowe jako dziedzictwo kulturowe
+ku sprzedało je na odzysk złota4. Ironią losu jest zaś fakt, że zakupione za pozyskane
+fundusze „nowoczesne” komputery osobiste wyszły z użycia jeszcze szybciej, niż ich
+poprzedniczka i już dawno zostały zlikwidowane. Dzisiaj możemy pisać o Marienbadzie tylko w czasie przeszłym, ponieważ nie zachowały się oryginalne listy rozkazów,
+co więcej próżno szukać sprawnej Odry 1003. O ile sam algorytm Marienbadu można
+odtworzyć w nowym środowisku programistycznym, to rekonstrukcja rozgrywki na
+komputerze tranzystorowym z użyciem dalekopisu byłaby zdecydowanie większym
+wyzwaniem5.
+Niestety problemy z konserwacją materialnych śladów gier są jednym z kluczowych wyzwań, jeśli chodzi o ich zachowanie. Ta fizyczna zależność nie dotyczy oczywiście tylko gier, ale także odnosi się do innych mediów takich jak fotografia, film
+czy nawet malarstwo lub rzeźba. Nie trudno zatem wywnioskować, że wytrzymałość
+materialnego nośnika musi mieć znaczenie dla ich zachowania. W tym zestawieniu
+marmur stanowi chyba jeden z najtrwalszych materiałów stosowanych przez sztukę,
+ale nawet on nie jest w stanie zapewnić integralności dzieła, o czym przypomina nam
+sylwetka Wenus z Milo.
+Wprawdzie plastiki używane w sprzęcie do grania są relatywnie trwałe i rozkładają się bardzo długo, o czym ostrzegają nas na co dzień ekolodzy, to okazuje się, że gry
+są bardziej narażone na proces tak zwanego cyfrowego rozkładu (ang. digital decay),
+czyli postępującą utratę możliwości odczytu artefaktów cyfrowych [Swalwell, 2009,
+265–66]. Odpowiedzialny za to zjawisko jest nie tylko okres przydatności do użycia
+tworzyw sztucznych, ale przede wszystkim układów scalonych, systemów operacyjnych i nośników danych. Jeśli chodzi o te ostatnie, to paradoksalnie im nowsze, tym
+bardziej są podatne na upływ czasu, a więc choć napędy taśmowe dzisiaj są postrzegane jako anachroniczne, to stanowią podstawę funkcjonowania największych archiwów6. Niemniej, jak mówią sami archiwiści [Sterlin 2003], nie ma metody zachowania bitowych ciągów danych, która realnie zagwarantowałaby ich odczyt chociażby
+za 50 lat. Zatem choć gry komputerowe są rdzennie cyfrowe (ang. born digital), a więc
+każda kolejna kopia danego tekstu jest jakościowo tożsama z oryginałem, nie wyzwa4 Odra miała pozłacane złącza krawędziowe, a ilość cennego kruszcu w całej maszynie była znacząca.
+5 Aczkolwiek podobne przedsięwzięcie, mające na celu odtworzenie gry Tennis for Two w pięćdziesięciolecie jej powstania, zakończyło się sukcesem [zob. Greenberg, 2008].
+6 Ogromny przyrost wytwarzanych i składowanych danych w obszarze mediów społecznościowych
+skłania firmy takie jak Google i Facebook do budowania centrów tak zwanej „zimnej archiwizacji” (ang.
+cold storage), gdzie eksabajty (1 EB = 1 mln TB) informacji są zapisywane na taśmowej pamięci magnetycznej.
+122 Maria B. Garda
+la to ich od wszystkich problemów mediów analogowych. Obecnie masowo digitalizuje się filmy przedwojenne przez wzgląd na ulegającą degradacji taśmę nitro, a więc
+podejmuje się wyścig z czasem, którego celem jest skopiowanie treści z nietrwałych
+nośników. Dokładnie w takiej samej sytuacji znajdą się kiedyś kartridże z ośmiobitowymi grami z lat 80. XX wieku. Co więcej, konsole do gier z tego okresu także mogą
+z czasem przestać być zdatne do użytku. Zatem choć egzemplarzy konsoli Nintendo
+Entertainment System wyprodukowano bez porównania więcej niż komputera Odra
+1003, to nie oznacza, że za 50 lat uruchomienie Super Mario Bros. [Nintendo 1985] na
+pierwotnie przeznaczonym mu sprzęcie będzie technicznie łatwiejsze niż odtworzenie rozgrywki w Marienbad.
+Melanie Swalwell [2007, 263] przyrównuje stare gry w wersjach pudełkowych do
+drogiej porcelany wytwarzanej przez manufaktury takie jak Wedgwood. To zestawienie jest bardzo trafione, gdyż gry są także produkowane masowo i ze względu na
+swoją – w tym wypadku zarówno materialną jak i cyfrową – „kruchość”, z czasem
+zyskują na wartości jako przedmiot zainteresowania kolekcjonerów. Podążając za tokiem myślenia Waltera Benjamina [zob. 2007], australijska badaczka sądzi, że owe
+nieliczne „białe kruki”, które ostały się spośród niegdyś licznych serii, nabierają tego
+samego charakteru wyjątkowości, który obecnie kulturowo przynależy ręcznie wykonanym dziełom sztuki. Dodatkowo w tym kontekście istotna wydaje się pewna aura
+historyczności, powiedzielibyśmy „patyna czasu”, która w odniesieniu do współcześnie wytwarzanych obiektów – szczególnie tych uwarunkowanych technologicznie
+– zaczyna ujawniać się znacznie szybciej, niż miało to miejsce niegdyś. Jako przykład
+niech posłużą nam stare samochody, które po 25 latach od daty produkcji można zarejestrować jako pojazd zabytkowy, podczas gdy czasem zauważamy nawet po kilku
+sezonach, że wzornictwo danego modelu „wyszło z mody”.
+Kolekcjonerstwo i zamiłowanie do estetyki retro łączą się w ramach praktyki kulturowej określanej jako retrogranie (ang. retrogaming), czyli użytkowanie i zbieranie
+dawnego sprzętu służącego do grania oraz emulowanie7 starych gier na nowszych
+platformach. Kluczową kategorią dla dyskursu retrograczy jest pojęcie oryginalnego
+doświadczenia (ang. original experience), odnoszące się do potrzeby zachowania doświadczenia rozgrywki takim „jakie było naprawdę” [Swalwell, 2013, 2]. Jest to szczególnie widoczne w dyskusjach dotyczących emulatorów [zob. tamże, 2–5], gdzie jako
+główne kryterium oceny oprogramowania stosuje się wrażenie autentyczności, a więc
+jak najdokładniejsze zachowanie oryginalnych własności gry z uwzględnieniem efek7 Emulowanie – duplikowanie funkcjonalności jednego systemu komputerowego na drugim.
+123Gry komputerowe jako dziedzictwo kulturowe
+tów jakie były charakterystyczne dla konkretnej symulowanej platformy. Oczywiście
+emulacja sama w sobie nie jest rozwiązaniem preferowanym przez retrograczy, gdyż
+odtworzenie doświadczenia takim „jakie było naprawdę” zakłada użycie oryginalnego sprzętu podłączonego do monitora z epoki. Ma to znaczenie o tyle, o ile specyfika
+teraźniejszych rozwiązań technicznych może wpływać na recepcję gry. Poza uwarunkowaniami sprzętowymi, istotna jest także posiadana edycja danego tytułu, a więc
+konkretna wersja skompilowanego kodu. Co ciekawe, najwięcej trudności w tym
+kontekście sprawiają te produkcje, które odniosły największy sukces i posiadają wiele
+reedycji oraz konwersji. Słynne Robbo [Pelc 1989], rodzima wariacja na temat serii
+Boulder Dash, jest chyba najczęściej klonowanym polskim tytułem w historii. Gra została początkowo wydana na ośmiobitowe komputery Atari, ale ze względu na swoją
+wielką popularność, prostotę i możliwość tworzenia własnych dodatkowych poziomów, jest do dzisiaj rozwijana przez fanów i adaptowana na nowe platformy. Wydaje
+się, że nie ma urządzenia, na które nie powstałaby jakaś permutacja Robbo, począwszy
+od wszystkich modeli komputerów osobistych, które były użytkowane w Polsce w latach 90. ubiegłego wieku, a na współczesnych propozycjach mobilnych skończywszy.
+Mamy zatem plejadę przeróżnych gier-klonów, z których choć każdy jest podobny do
+oryginalnej gry, szczególnie w zakresie mechaniki, to jednak wygląda często bardzo
+odmiennie. Choć gra została ocalona od zapomnienia, można zadać sobie pytanie,
+co ma wspólnego rozgrywka w Robbo na smartfonie z oryginalnym doświadczeniem
+z tak zwanego „małego Atari”?
+Osobnym problemem jest zachowanie gier sieciowych. Współczesne tytuły takie
+jak World of Tanks [Wargaming.net, 2011] są zależne od serwera utrzymywanego
+przez wydawcę gry, więc choć obecnie jest to jedna z popularniejszych gier MMO
+(ang. Massively multiplayer online), to sytuacja może w przyszłości ulec zmianie. O ile
+wcześniejsze gry wieloosobowe, takie jak MUD-y (ang. Multi-User Dungeon), nie
+były tak wymagające technicznie i mogą być utrzymywane przez najwierniejszych
+fanów, o tyle nawet relatywnie liczna baza entuzjastów nie będzie w stanie sfinansować infrastruktury World of Tanks. Dodatkowym utrudnieniem jest kwestia praw
+autorskich, które w przypadku pierwszych MUD-ów należały często do niezależnego
+twórcy – chętnie nieodpłatnie udostępniającego grę, podczas gdy właścicielami praw
+do nowych produkcji bywają wielkie koncerny medialne prowadzące zupełnie inną
+politykę odnośnie własności intelektualnej.
+Wydaje się, że odtworzenie rozgrywki sieciowej po wielu latach przypominałoby pod wieloma względami działania historycznych grup rekonstrukcyjnych. Choć
+wątpliwym jest, aby ktoś pokusił się o zrekonstruowanie największych bitew MMO,
+124 Maria B. Garda
+takich jak starcia w uniwersum EVE Online [CCP Games, 2003-] – na przykład Battle of Asakai [Petite 2013]. Takie gigantyczne konfrontacje, w których uczestniczy do
+kilku tysięcy graczy, są dokumentowane w postaci filmów lub galerii zdjęć najwyższej
+rozdzielczości (4K), a więc de facto istnieje zapis historyczny tych wydarzeń, stanowiący odpowiedni punkt odniesienia dla prób ich odtworzenia. Być może, podobnie jak w wypadku rekonstrukcji bitwy pod Grunwaldem, mielibyśmy do czynienia
+z odegraniem punktów kulminacyjnych bitwy przy pomocy mniejszych sił, niż miało
+to miejsce w rzeczywistości. Przywrócenie do życia społecznego kontekstu rozgrywki
+jest jednak zupełnie niemożliwe. Jest to problem, z którym borykają się także miłośnicy gier arkadowych, które funkcjonowały w ramach nieistniejących już salonów gier.
+Gry komputerowe wydają się tak silnie należeć do teraźniejszości, że do niedawna
+nie zastanawiano się, co z nimi będzie za kilkadziesiąt lat. Gdyby nie działania retrograczy, liczne tytuły z lat 80. XX wieku zapewne nie przetrwałyby do dzisiaj. Środowiska te skupiają się przede wszystkim na emulacji jako metodzie udostępnienia gier
+nowym pokoleniom graczy. Jest to jednak tylko jedna z możliwych strategii jaką można przyjąć starając się zachować gry komputerowe dla potomności. Pozostałe sposoby
+wiążą się z zaangażowaniem instytucjonalnym.
+Zachowaniem gier zajmują się w Polsce także sformalizowane inicjatywy takie
+jak Fundacja Promocji Retroinformatyki „Dawne Komputery i Gry” z Wrocławia lub
+Muzeum Historii Komputerów i Informatyki w Katowicach. Choć nie mogą one jeszcze konkurować z wiodącym na świecie ośrodkiem zachowania gier komputerowych
+– Computerspielemuseum w Berlinie8, to wykonują niemożliwy do przecenienia wysiłek na rzecz zachowania regionalnej historii informatyki i gier cyfrowych. Cel ten
+także realizują niektóre instytucje państwowe, takie jak biblioteki publiczne, co określają przepisy prawa polskiego.
+Jeśli chodzi o instrumenty legislacyjne, to teoretycznie rzecz biorąc, Polska jest
+całkiem dobrze przygotowana. Ustawa o obowiązkowych egzemplarzach bibliotecznych obejmuje wszelkie „publikacje”, przez które „należy rozumieć dzieła zwielokrotnione dowolną techniką w celu rozpowszechnienia, a w szczególności: (…)
+c. audiowizualne utrwalające dźwięk, obraz lub obraz i dźwięk, (…); d. zapisane
+na nośnikach elektronicznych; e. oprogramowanie komputerowe” [Dz.U. 1996 nr
+152 poz. 722 art. 2], a więc także gry komputerowe. Z kolei przez „wydawcę” należy „rozumieć osobę prawną, jednostkę organizacyjną nie posiadającą osobowości
+8 Computerspielemuseum Berlin (pol. Muzeum Gier Komputerowych w Berlinie) zostało po raz
+pierwszy otwarte w 1997 roku, a ponownie (po okresie działania jedynie on-line) w roku 2011.
+125Gry komputerowe jako dziedzictwo kulturowe
+prawnej oraz osobę fizyczną, która prowadzi na obszarze Rzeczypospolitej Polskiej
+działalność polegającą na publikowaniu dzieł; domniemywa się, że wydawcą jest
+osoba, której nazwę lub nazwisko uwidoczniono w tym charakterze na egzemplarzach publikacji” [tamże]. Hipotetycznie każda gra „wydana” w Polsce – w rozumieniu tej ustawy – powinna trafić do uprawnionych bibliotek, chociażby do Biblioteki Narodowej w Warszawie. W praktyce niestety niewielu wydawców stosuje
+się do tej zasady, a jeśli już to się zdarza, to często wiele lat po premierze i w formie
+którejś reedycji, a nie oryginalnego wydania.
+Środki egzekwowania ustawy o egzemplarzu obowiązkowym istnieją, ale właściwie nigdy nie są stosowane, co wynika z niezwykle ograniczonej ilości kustoszy
+zajmujących się obiektami rdzennie cyfrowymi, którzy są jednocześnie ekspertami
+w zakresie historii gier komputerowych. Jedyną możliwością poprawy tej sytuacji
+jest uświadamianie twórców gier, że wysyłając egzemplarz obowiązkowy troszczą się
+o dziedzictwo kulturowe własnego kraju, a więc co za tym idzie dbają także o swoje
+miejsce w historii. Przykładem producenta elektronicznej rozgrywki, który niezwykle
+skrupulatnie dba o zachowanie swojej spuścizny jest Nintendo [zob. Suominen 2011]
+i wydaje się, że każda duża firma powinna pójść ich śladem. Niemniej w dalszym ciągu brakuje rozwiązań, które pozwolą zachować gry autorstwa mniejszych studiów lub
+twórców niezależnych, w szczególności te wydawane lokalnie. Co od razu przywołuje
+kolejną trudność, związaną z archiwizacją tytułów wydawanych w dystrybucji cyfrowej, które nigdy nie były publikowane w formie pudełkowej. Gromadzenie tego rodzaju zbiorów i ich udostępnianie w jednostce publicznej jest wysoce problematyczne.
+Niemniej dopóki nie powstanie państwowa instytucja kultury, którą na wzór Filmoteki Narodowej możnaby określić mianem „Groteki Narodowej”, biblioteki są jedyną
+szansą na zgromadzenie współczesnych gier – teraz, a więc w momencie, kiedy są one
+bez trudu dostępne.
+Wobec tak trudnej sytuacji, może warto jednak rozważyć propozycję Newmana
+[2012, 158–160], który odrzuca strategie skupione na oryginalnym doświadczeniu
+i emulacji, a zamiast nich proponuje zwrot ku zapisowi samej rozgrywki (ang. gameplay). Jego zdaniem tego rodzaju archiwizacja, a więc nagranie procesu grania w formie tak zwanego let’s play9, uzupełnione o dokumentację kultury grania danej epoki,
+stanowi materiał, który może nam znacznie więcej powiedzieć o historii gier takich
+„jakie były naprawdę”, niż zachowanie ich materialnych śladów. Za odejściem od ka9 Let’s play – to udokumentowany, najczęściej za pomocą nagrania wideo, proces rozgrywki, który
+zazwyczaj opatrzony jest komentarzem grającego; jako forma audiowizualna został spopularyzowany
+na serwisie YouTube.
+126 Maria B. Garda
+tegorii oryginalnego doświadczenia jest także Swalwell [2013, 11–12], ale jej zdaniem
+historycy gier powinni myśleć o sobie nie jako o archiwistach, ale bardziej jak o archeologach, gdyż w przyszłości odtworzenie kultury grania danej epoki będzie wymagało
+korzystania z wielu źródeł, a większość z tych przedmiotów nie będzie już spełniać
+swoich pierwotnych funkcji. Podobnie jak w przypadku muzeów etnograficznych,
+przyszłe muzea gier komputerowych będą przede wszystkim starały się odtworzyć
+minione epoki gier komputerowych prezentując granie jako praktykę kulturową osadzoną w historii życia codziennego.
+Przez wzgląd na swoją techniczną i cyfrową nietrwałość, gry komputerowe potrzebują ochrony być może jeszcze bardziej niż inne znane nam dobra kultury. Polsce jest
+jeszcze daleko do krajów, które dbają o swoją ludyczną przeszłość tak jak Stany Zjednoczone czy Niemcy. Niemniej posiadamy bardzo dobrze zorganizowane środowiska
+retrograczy, które zgromadziły znaczące materiały dotyczące naszej lokalnej historii
+gier komputerowych. Najwyższa pora, aby wszelkiego rodzaju instytucje i inicjatywy
+zajmujące się opieką nad dziedzictwem kulturowym, zaczęły współpracować z kolekcjonerami, twórcami i historykami gier, podejmując wspólne wyzwanie zachowania
+gier cyfrowych dla przyszłych pokoleń. Niezależnie od obranych strategii, istotną rolę
+w tym procesie powinni odgrywać groznawcy, gdyż pewne jest tylko przetrwanie gier
+najpopularniejszych, a to eksperci powinni zbadać, które tytuły miały największe
+znaczenie dla danej epoki. Znajdujemy się w nietypowym momencie polskiej historii
+gier, kiedy są jeszcze wśród nasz pionierzy tego zjawiska, lecz wkrótce może nam ich
+zabraknąć i nie będziemy w stanie odtworzyć dawnej kultury gier za pomocą metod
+historii mówionej, ale – tak jak mówi Swalwell – pozostanie nam rola archeologów.
+Jako groznawcy, nie popełniajmy błędów filmoznawców, którzy dopiero w latach 80.
+XX wieku zdali sobie sprawę, że mają błędne pojęcie o okresie wczesnego kina. Nie
+pozwólmy grom umrzeć zanim je poznamy.
+Bibliografia
+Benjamin, Walter. 2007 [oryg. 1968]. Unpacking My Library. A Talk about Book Collecting (tłum. H. Zohn). w: H. Arendt (red.), Illuminations, ss. 59–67.New York:
+Schocken Books.
+Greenberg, Diane. 3 listopada 2008. Celebrating ‘Tennis for Two’ With A Video Game
+Extravaganza. Dostęp: http://www.bnl.gov/newsroom/news.php?a=2964
+Kluska, Bartłomiej, Rozwadowski, Mariusz. 2011. Bajty Polskie. Łódź: Orka.
+127Gry komputerowe jako dziedzictwo kulturowe
+Newman, James. 2012. Best before: Videogames, Supersession and Obsolescence. Milton Park, Abingdon, Oxon; New York: Routledge.
+NID. 2013. Ochrona Dziedzictwa Kulturowego. Dostęp: http://www.nid.pl/pl/Informacje_ogolne/Ochrona_dziedzictwa_kulturowego/
+Petitte, Omri. 28 stycznia 2013. EVE Online’s Battle of Asakai: Who Was Involved, the
+Stakes, and the Aftermath. Dostęp: http://www.pcgamer.com/2013/01/28/eve-online-battle-asakai/
+Sterling, Bruce. 2003. Digital Decay. w: A. Depocas, J. Ippolito, and C. Jones (red.), ss.
+11–22. New York and Montreal: the Solomon R. Guggenheim Foundation. Dostęp:
+http://thoughtmesh.net/publish/299.php.
+Suominen, Jaakko. 2012. Mario’s Legacy and Sonic’s Heritage: Replays and Refunds
+of Console Gaming History. Dostęp: http://www.digra.org/wp-content/uploads/
+digital-library/12168.57359.pdf.
+Swalwell, Melanie. 2007. The Remembering and the Forgetting of Early Digital Games:
+From Novelty to Detritus and Back Again. w: „Journal of Visual Culture” 6 (2)
+(August): 255–273.
+———. 2009. Towards the Preservation of Local Computer Game Software Challenges,
+Strategies, Reflections. w: „Convergence: The International Journal of Research
+into New Media Technologies” 15 (3) (August): 263–279.
+———. 2013. Moving on from the Original Experience: Games History, Preservation
+and Presentation. Dostęp: http://www.digra.org/wp-content/uploads/digital-library/paper_454.pdf
+Data dostępu do materiałów internetowych: 30 września 2013.
+Ludografia
+Higinbotham, William,1958. Tennis for Two [konstrukcja własna], USA.
+Colley, Stephen, 1974. Maze War [Imlac], USA.
+Nintendo. 1985. Super Mario Bros. [NES], USA: Nintendo.
+Pelc, Janusz. 1989. Robbo. [Atari XE/XL], Polska: LK Avalon.
+Podgórski, Witold. 1962. Marienbad. [Odra 1003], Polska.
+Wargaming.net. 2011. World of Tanks [PC], Polska Wargaming.net.
+Projekt został sfinansowany ze środków Narodowego Centrum Nauki przyznanych
+na podstawie decyzji numer DEC-2012/07/B/HS2/00419.
+128
+Summary
+Computer games as cultural heritage
+The aim of the article is to discuss the challenges of computer games preservation as
+a cultural heritage, focusing on the Polish perspective. Computer games are predominantly perceived as ‘new media’, despite the fact that their history dates back to
+the mid-20th century. It is important to understand that not only the early computer
+games are already ‘old media’ but all the digital games are. They may be perceived
+as ‘dying media’ vulnerable to unprecedented obsolescence. The article explores the
+consequences of digital decay and the notion of original experience in the context of
+conservation strategies. It suggests that there is still a need for a more conscious inclusion of computer games within the agenda of the Polish heritage institutions.
+Keywords: computer games preservation, cultural heritage, digital decay, original
+experience, retrogaming
+mgr Maria B. Garda – groznawczyni, asystentka w Katedrze Mediów i Kultury Audiowizualnej na Uniwersytecie Łódzkim, gdzie zajmuje się grami komputerowymi,
+kulturą popularną i historią mediów; publikowała między innymi w „Homo Ludens”
+i „Przeglądzie Kulturoznawczym”.

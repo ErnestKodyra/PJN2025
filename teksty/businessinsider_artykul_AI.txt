@@ -1,0 +1,137 @@
+Kevin Kelly: AI stworzy najpotężniejsze problemy — i to dobrze [WYWIAD]
+
+Kevin Kelly jest współzałożycielem nagradzanego magazynu WIRED, założycielem popularnej witryny Cool Tools, która od 20 lat codziennie recenzuje narzędzia, autorem wielu bestsellerów o przyszłości technologii i doskonałym ekspertem — jeśli ktoś lubi świat technologii, pewnie nieraz zetknął się z jego nazwiskiem. W rozmowie z Business Insiderem dzieli się, jak zawsze, swoim optymizmem, ale też oryginalnymi przemyśleniami na temat AI i fascynującym spojrzeniem na świat. Kevin Kelly wystąpi też na konferencji Masters&Robots, która odbędzie się 22-23 października w Warszawie.
+
+    AI umożliwia robienie tego, co chcemy, ale jednocześnie zwiększa naszą pracę, ponieważ zmienia jej charakter, zamiast ją ograniczać
+    AI i ludzka kreatywność wzajemnie się uzupełniają, umożliwiając tworzenie rzeczy, których ani ludzie, ani AI nie mogliby stworzyć samodzielnie
+    Choć AI stwarza potężne problemy, Kevin Kelly wierzy, że nasza zdolność do ich rozwiązywania rośnie szybciej 
+    Kevin Kelly zdradza nam też, jaka jest jego zdaniem najbardziej obiecująca technologia przyszłości, a także jakie ma porady dla młodych ludzi, dopiero zaczynających karierę
+    Więcej informacji o biznesie znajdziesz na stronie Businessinsider.com.pl
+
+Grzegorz Kubera, Business Insider Polska: Mam wrażenie, że dążenie do produktywności wymyka się spod kontroli. AI miała uwolnić nas od pracy, mieliśmy zyskać więcej czasu na refleksję i 4-dniowe tygodnie pracy. Tymczasem pracujemy więcej niż kiedykolwiek, generując więcej wszelakich treści — w internecie mamy wręcz zalew informacji. Czy z twojej perspektywy ChatGPT zapewnił przeciętnej osobie więcej korzyści niż problemów?
+
+Kevin Kelly, współzałożyciel magazynu WIRED, założyciel Cool Tools: To jest bardzo dobre pytanie. I tak, masz rację, marzeniem, które wszyscy mieliśmy przez bardzo długi czas, było: nie pracować. To było takie wypowiedziane marzenie, natomiast w rzeczywistości, jeśli spojrzysz nawet na najbogatszych ludzi na świecie, którzy nie muszą przecież pracować, to są oni bardzo zajęci.
+
+Tak naprawdę nie jest tak, że chcemy nic nie robić. Myślę, że nowe narzędzia, takie jak ChatGPT, pozwalają nam po prostu na robienie innych rzeczy. Narzędzia AI sprawiają, że możemy robić więcej tych rzeczy, które faktycznie chcemy wykonywać. To praca, od której nie chcemy się uwolnić.
+
+Ostatecznie jednak pracujemy więcej.
+
+Myślę, że ta idea, że ktoś np. pracuje w swoim czasie wolnym, już się rozpada. To znaczy: potrzebujemy już innego terminu na to, co chcemy robić i myślę, że nowe narzędzia AI w tym pomagają. Pozwalają na realizowanie pracy twórczej, pracy mającej znaczenie. Nie jest więc tak, że po pracy się "wyłączamy" i "teraz pora na relaks". Obecnie możemy i wykonujemy po prostu inny rodzaj pracy. Czy teraz pracujesz?
+
+Co masz na myśli?
+
+Pracujesz, ale tak naprawdę robisz to, co chciałeś zrobić i narzędzia technologiczne ci w tym pomagają. Jeśli chcesz przeprowadzić wywiad, możesz to zrobić za pomocą narzędzi ze wsparciem AI. Chcemy, żeby każdy robił to, co chce robić. [Od redakcji: wywiad odbywał się przez aplikację do spotkań online z transkrypcją generowaną przez AI. Kevin Kelly znajdował się w Stanach Zjednoczonych, a Grzegorz Kubera — w Polsce. Bez dostępu do narzędzi tego rodzaju wywiad nie byłby możliwy do zrealizowania].
+
+Zgadza się.
+
+Dlatego myślę, że musimy odejść od tej starej dychotomii, że jest praca, a potem tej pracy nie ma i jesteśmy "wyłączeni". Dzięki technologii zyskujemy to "coś pomiędzy". Coś, co jest częściowo pracą, ale jest też przyjemnością i robimy to, bo naprawdę tego chcemy.
+
+Kevin Kelly wystąpi na konferencji Masters&Robots, która odbędzie się 22-23 października w Warszawie.
+Kreatywność vs sztuczna inteligencja
+
+Kiedy mamy więc tak dużo narzędzi i AI do dyspozycji, jak widzisz przyszłość relacji między ludzką kreatywnością a sztuczną inteligencją? Czy uważasz, że AI może ostatecznie ograniczyć czy zwiększyć ludzką innowacyjność w takich dziedzinach jak sztuka, tworzenie treści czy nawet inżynieria?
+
+Myślę, że wzmocni naszą kreatywność. Zobacz, mamy np. na świecie zdjęcia, a i tak są ludzie, którzy malują coś, co wygląda fotorealistycznie, kiedy tak naprawdę mogliby przecież zrobić zdjęcie. Malują fotorealistyczne obrazy. Jaki jest sens malowania takich obrazów? Jest tu widoczna niewielka różnica, a jednak ludzie decydują się na takie działania. AI na pewno będzie więc wykorzystywana do różnych celów i zwiększy kreatywność.
+
+Poza tym, kiedy stworzysz coś z AI, są to rzeczy wyglądające co najmniej dziwnie — jest obce, jakby z innej planety. Kreatywność modeli AI jest zawsze trochę inna od tej ludzkiej i o to właśnie chodzi. Że AI i ludzie mogą myśleć inaczej, a "myśl inaczej" to właśnie zasada nadrzędna w nowej gospodarce. Trzeba dziś myśleć inaczej i AI może nam w tym pomóc.
+
+Dodam, że AI sama w sobie jest również ograniczona, ale kiedy ludzie korzystają z AI, mogą tworzyć rzeczy, których osobno ani AI, ani człowiek nie mógłby stworzyć. Jeśli dziś chciałbyś zamówić stworzenie czegoś, np. logo, które będzie naprawdę fantastyczne i nigdy wcześniej nie widziane, prawdopodobnie skorzystałbyś z zespołu projektantów plus AI.
+
+Czy możesz dokładniej wyjaśnić, co masz na myśli, mówiąc o ograniczeniach w AI?
+
+Obecne duże modele językowe, jakie mamy, są ograniczone w tym sensie, że wiedzą wszystko to, co wiedzą ludzie. Mają bardzo duże bazy wiedzy, są inteligentne, wiedzą praktycznie wszystko, ale wiedzą to, co my i jeśli mają udać się w nieznane, to mają z tym ogromny problem. Bardzo trudno zmusić je do wyjścia poza to, co wiedzą. Nie mylą się tylko w granicach tego, co jest im znane. To zdecydowanie nie jest rodzaj inteligencji oparty na wyobraźni. Aby udać się w nieznane, AI musi mieć partnerstwo z ludźmi. Z czasem pewnie powstaną modele, które są lepsze w eksploracji nieznanego, ale na razie ich nie mamy.
+Niebezpieczeństwa ze strony AI i AGI
+
+Czy widzisz jakieś niebezpieczeństwa wynikające z obecnych trendów technologicznych, szczególnie w kontekście AI?
+
+AI to najpotężniejsza technologia, jaką kiedykolwiek wymyśliliśmy. Dlatego stworzy też najpotężniejsze problemy. To taka zasada, że im potężniejsza technologia, tym potężniejsze problemy. Przed nami są więc najpotężniejsze problemy.
+
+To brzmi dość groźnie.
+
+Ale nie jestem tym zmartwiony.
+
+Nie jesteś?
+
+Powodem, dla którego się nie martwię, jest to, że nasza zdolność rozwiązywania problemów również wzrasta szybciej niż same problemy. Mamy więc nowe narzędzia do rozwiązywania ich.
+
+Trzeba też podkreślić, że nigdy nie będzie tak, że pozbędziemy się wszelkich problemów. Ludzie, którzy myślą, że istnieje jakaś idea utopii, w której możemy osiągnąć stan, że nie ma już żadnych problemów do rozwiązania, nie żyją w rzeczywistości. Nadal będziemy jako ludzie tworzyć nowe problemy, ale nasza zdolność ich rozwiązywania również wzrośnie. Wystarczy, że będziemy tworzyć w ciągu roku choćby 1 proc. więcej tego, niż psujemy, i to wystarczy. Nie jest to duża Delta, ale ta Delta jest wystarczająca. Nie powinno więc nas przerażać, że będziemy mieć potężne problemy do rozwiązania. Problemy to tak naprawdę szanse w przebraniu.
+
+Ludzie obawiają się, że teraz, gdy mamy już AI, poważne problemy wystąpią bardzo, bardzo szybko; że superszybko wzrośnie też inteligencja tych rozwiązań. W praktyce mamy jeszcze dużo czasu. Jest duża granica między tym, co powstaje i jest prezentowane, a adopcją rynkową, która zawsze jest bardzo powolna. Mamy czas.
+
+Czyli nie ma powodu, aby obawiać się AGI?
+
+W ciągu pięciu lat tak naprawdę zmieni się definicja AGI (AGI — Artificial General Intelligence; ogólna sztuczna inteligencja — red.). Zasadniczo AGI będzie wszystkim tym, czego nie możemy sami wyprodukować jako ludzie. Będzie to definicja wszystkiego, co możemy sobie wyobrazić, ale nie możemy samodzielnie stworzyć.
+
+A te wszystkie wizje zagłady rodem z filmu Terminator?
+
+To romantyczne. Hollywoodzkie. Bardzo, bardzo mało prawdopodobne.
+
+Kevin Kelly wystąpi na konferencji Masters&Robots, która odbędzie się 22-23 października w Warszawie.
+Funkcjonowanie w świecie napędzanym przez technologie
+
+Jesteśmy z sektora technologicznego i postrzegamy to trochę inaczej, ale dla przeciętnej osoby, która na co dzień jest bombardowana informacjami, treściami AI i znajduje się w tym wielkim wirze, jaki znamy pod nazwą "internet", czy można dziś zachować dobre samopoczucie i stan psychiczny w tak szybko zmieniającym się świecie, który jest napędzany technologią? Czy ludzie są w stanie sobie z tym wszystkim poradzić, np. z fake newsami, dezinformacją?
+
+Z tego, co wiem, problemy związane ze stanem psychicznym i szeroko pojętym dobrostanem dotyczą głównie ludzi młodych, którzy są na nie podatni. Bycie nastolatkiem to trudny okres w życiu. I nie sądzę, żebyśmy jako społeczeństwo powinni oceniać daną technologię i jej wpływ na podstawie tego, jak korzystają z niej nastolatkowie. To oczywiste, że będą oni podchodzić do technologii obsesyjnie i przesadnie. Taka jest natura bycia nastolatkiem. Cokolwiek pojawi się w przyszłości, nastolatkowie prawdopodobnie będą tego nadużywać.
+
+Obecnie wiele raportów i badań dotyczy za często rzeczy związanych z social mediami przez pryzmat używania ich przez nastolatków, a nie na tym, jak korzystają z technologii ludzie dorośli. Kto z nas ma faktycznie problemy z social mediami?
+
+Wiem, że ja nie mam.
+
+Tak, takie problemy są rzadkością u ludzi dorosłych. Owszem, często mówimy, że np. spędzamy za dużo czasu na smartfonie, ale to nie wpływa w jakiś poważny sposób na nasze życie. Histeria na temat tego typu problemów jest o wiele większa, niż rzeczywiste dowody na to wskazują.
+
+To zapytam teraz o kwestię etyki. Coraz większe obawy budzą wyzwania stawiane przez AI, od kwestii prywatności po uprzedzenia decyzyjne. Jaką rolę etyka powinna odgrywać w rozwoju i wdrażaniu AI?
+
+To bardzo poważna i uzasadniona obawa. Wynika z faktu, że będziemy mieć maszyny, które będą podejmować decyzje i chcemy, aby były one zgodne z naszym człowieczeństwem. Największym problemem, jaki mamy, jest to, że nasza etyka jest bardzo płytka i niespójna. Kiedy próbujemy zaprogramować etykę botom, zdajemy sobie sprawę, że jest to bardzo niespójne. Tak naprawdę musimy jako ludzie najpierw stworzyć bardzo dobrą etykę, lepszą, dla nas samych. To jest zarazem świetna rzecz, bo zyskamy wtedy szansę stać się lepszymi ludźmi.
+
+Samo zaprogramowanie etyki w AI nie jest aż tak trudne. Trudne jest opracowanie takiej etyki i zachowań, które będą spójne i głębokie, i z których będziemy jako ludzie dumni.
+O przyszłości sztucznej inteligencji
+
+W książce "The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future", która pojawiła się kilka lat temu na rynku, opisujesz różne i nieuniknione trendy, które ukształtują naszą przyszłość. Które z nich uważasz obecnie za najważniejsze?
+
+Z pewnością będzie to więc trend poznawania, w którym dodajemy odrobinę różnych rodzajów inteligencji do wszystkiego. Chodzi o cały ekosystem różnych rodzajów poznania, które są unikalne. Pozwól, że wyjaśnię.
+
+Oczywiście.
+
+Kiedy tworzymy wykres wszystkich możliwych rodzajów inteligencji, ludzka inteligencja będzie na krańcach, a nie w centrum. Jesteśmy gatunkiem krańcowym, a nie tym w centrum. Nie jesteśmy w centrum układu słonecznego i nie jesteśmy w centrum galaktyki. Jesteśmy na krańcach. Nasza własna inteligencja jest inteligencją krańcową.
+
+Weźmy teraz wszystkie rodzaje inteligencji i dodajmy do nich nowe możliwości. Coś, co było mądre jak konik polny, zyska za sprawą rozwoju i AI pewną zdolność adaptacji, uczenia się. To jest coś, do czego zmierzamy.
+
+Niektórzy ludzie, jak Sam Altman z OpenAI, nazywają to "Erą Inteligencji". To jest całkiem dobra nazwa. Przez pewien krótki geologiczny moment byliśmy jedynymi istotami poznawczymi na tej planecie. A teraz, idąc naprzód, nie będziemy jedynymi i zaczniemy otaczać się rzeczami myślącymi i poznawczymi, które będą się dostosowywały i adaptowały. Będzie to niesamowicie potężne.
+
+Jeśli miałbyś wskazać nowe technologie lub innowacje, jakie uważasz za najbardziej obiecujące w nadchodzącej dekadzie, co by to było?
+
+Poza AI?
+
+Tak.
+
+To powiedziałbym, że podzielam wizję Marka Zuckerberga. Uważam, że smart okulary będą następną wielką rzeczą na świecie. To, co jest potrzebne, aby ta wizja się urzeczywistniła, to technologia tego rodzaju musi stać się wszechobecna, dostępna dla wszystkich. Obecnie takich okularów jeszcze nie ma, natomiast nie będziemy mieć świata lustrzanego, rzeczywistości rozszerzonej czy metawersum, jeśli takie okulary i technologia nie będą wszechobecne.
+
+Gdy tylko będziemy mieć taką możliwość w zakresie AI i będziemy mieć odpowiednie okulary w kontekście możliwości sprzętowych i cen, pojawi się połączenie świata cyfrowego ze światem fizycznym. Będą wtedy cyfrowe awatary, spotkania, szkolenia, edukacja, mnóstwo rzeczy. To będzie transformacyjne dla świata i rewolucyjne.
+
+Do tego jest jednak ciągle długa droga. Jako ludzie potrafimy sobie świetnie coś wyobrazić, ale musi minąć trochę czasu, zanim stanie się to rzeczywistością.
+
+Dwa ostatnie pytania. Kevin, jakie rady udzieliłbyś młodym ludziom, którzy obecnie zaczynają dopiero karierę w branży medialnej i technologicznej?
+
+Bez względu na to, w jakiej dziedzinie jesteś, mam zawsze jedną radę: naucz się tego, jak najlepiej się uczyć. Powinieneś wiedzieć, jak uczysz się najlepiej, ponieważ będziesz uczyć się przez resztę swojego życia. A jeśli jesteś w branży takiej jak technologie, bez dobrego sposobu nauki zwyczajnie nie przetrwasz.
+
+A zatem: jak uczysz się w najlepszy sposób? Czego potrzebujesz pomiędzy nauką? Odpoczynku? Czy wolisz raczej słuchać, czy oglądać? Uczenie się jest jak trening sportowy. Trzeba umieć ćwiczyć, testować, mierzyć. Niestety żadna szkoła, o której wiem, nie uczy tego, jak się najlepiej uczyć.
+
+Tak więc, jeśli możesz, zrozum jak najlepiej się uczyć, co najbardziej ci odpowiada, a następnie zwiększaj i udoskonalaj swoją zdolność uczenia się. To jest ta umiejętność, z jaką chcesz ukończyć studia.
+
+I na koniec: biorąc pod uwagę wszystkie twoje osiągnięcia, jak obecnie definiujesz sukces? Co jest dla ciebie najważniejsze w pracy i życiu osobistym?
+
+Każdy z nas powinien chcieć zrobić jak najwięcej i mieć swoją własną definicję sukcesu. Nie naśladuj. Część życia i bycia człowiekiem polega na tym, że każdy z nas jest unikalny, a definicja sukcesu powinna być wyjątkowa dla każdego z nas.
+
+Jaka jest natomiast moja definicja sukcesu? Chcę zachować kontrolę nad swoim czasem. Są dwa rodzaje bogactwa. Są pieniądze — możesz mieć gotówkę i to sprawi, że będziesz zamożny, ale nie bogaty. Bogactwo zapewnia kontrolę nad własnym czasem, a w moich oczach czas jest najcenniejszym zasobem, jaki posiadam. Jeśli masz kontrolę nad swoim czasem, jesteś bogaty. Częścią mojej definicji sukcesu jest więc bardzo silna kontrola nad własnym czasem. Oznacza, że to ja decyduję, co będę robić i to ja trzymam zegar odliczający godziny.
+
+Jednocześnie odmierzam moje życie w dniach. Zadaję sobie pytanie: co, jeśli to jest mój ostatni dzień? Czy robię to, co chcę robić? Czy wybieram akurat tę konkretną aktywność? Czy chcę przeprowadzić wywiad z tobą, jeśli naprawdę miałbym jutro umrzeć? Powiedziałem: tak, to jest to, co chcę robić, więc to robię. Dla mnie kontrola nad czasem jest częścią definicji sukcesu i działam w taki właśnie sposób.
+
+Następnie optymalizuję moją naukę. Staram się mieć jak najwięcej szans na naukę. A potem próbuję być lepszym w nauce.
+
+Po trzecie, chcę udostępniać narzędzia do nauki każdemu na świecie. Staram się o to, aby każdy na świecie mógł uczyć się tak, jak ja.
+
+— Rozmawiał Grzegorz Kubera
+
+Kevin Kelly wystąpi na konferencji Masters&Robots, która odbędzie się 22-23 października w Warszawie.
+
+Kevin Kelly jest współzałożycielem nagradzanego magazynu WIRED, który wystartował w 1993 r. Współprzewodniczący The Long Now Foundation, organizacji członkowskiej, która promuje długoterminowe myślenie. Jest założycielem popularnej witryny Cool Tools, która od 20 lat codziennie recenzuje narzędzia, w tym narzędzia do nauki. Jest również autorem wielu bestsellerów o przyszłości technologii. Jego najnowszą książką jest "Excellent Advice for Living" — zawiera 450 nowoczesnych porad i zasad w kontekście prowadzenia całkiem dobrego życia. Znany ze swojego radykalnego optymizmu.
